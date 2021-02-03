@@ -1,6 +1,6 @@
 # data/
-env/
-logs/
+# env/
+# logs/
 
 # Python
 *.egg-info/
